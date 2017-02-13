@@ -52,5 +52,5 @@ function draw() {
 rotate(PI/7);
 rect(125, -50, 32, 160);
 fill(255, 92, 103); //cut face
-    rect(125, 125, 32, 200)
+    rect(125, 125, 32, 200);
 } 
